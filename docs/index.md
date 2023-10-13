@@ -5,7 +5,7 @@
 comments: true
 ---
 
-# 复旦大学数学科学学院 Math Bridge
+# 复旦大学数学科学学院MATHBridge
 
 
 <style>
@@ -65,7 +65,7 @@ hr.narrow {margin: 0 10px}
 }
 </style>
 
-欢迎！[复旦大学数学科学学院](https://wentlyu.github.io/mathbridge/) 是一份生涯发展文档，希望他能在你本科四年的学习中起到某些作用。在这里，你可以了解到本科学习的方方面面！
+您好！[复旦大学数学科学学院MATHBridge](https://wentlyu.github.io/mathbridge/) 是一份生涯发展文档，希望他能在你本科四年的学习中起到某些作用。在这里，你可以了解到本科学习的方方面面！
 
 
 <div class="row">
