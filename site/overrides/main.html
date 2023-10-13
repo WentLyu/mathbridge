@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block announce %}
+  <p>本站正在招募申请案例，请阅读 案例-案例模板 后通过 首页-贡献 的方式加入我们！</p>
+{% endblock %}
+
+{% block content %}
+  {{ super() }}
+
+  {% if git_page_authors %}
+    <div class="md-source-date">
+      <small>
+          Authors: {{ git_page_authors | default('enable mkdocs-git-authors-plugin') }}
+      </small>
+    </div>
+  {% endif %}
+{% endblock %}
