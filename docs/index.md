@@ -5,7 +5,7 @@
 comments: true
 ---
 
-# 清华大学飞跃手册
+# 复旦大学数学科学学院 Math Bridge
 
 
 <style>
@@ -65,7 +65,7 @@ hr.narrow {margin: 0 10px}
 }
 </style>
 
-欢迎！[清华大学飞跃手册](https://feiyue.online) 是一份留学经验文档，希望它能为留学申请各个阶段中的你提供帮助和支持。在这里，你可以了解到申请相关的方方面面！
+欢迎！[复旦大学数学科学学院](https://wentlyu.github.io/mathbridge/) 是一份生涯发展文档，希望他能在你本科四年的学习中起到某些作用。在这里，你可以了解到本科学习的方方面面！
 
 
 <div class="row">
