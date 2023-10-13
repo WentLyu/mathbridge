@@ -71,38 +71,38 @@ hr.narrow {margin: 0 10px}
 <div class="row">
   <div class="column">
     <div class="card">
-      <p><strong>为什么要出国留学？</strong></p>
+      <p><strong>为什么要念大学？</strong></p>
       <hr class = "narrow">
-      <p>出国留学是为了什么？要考虑什么？希望本手册能帮你找到方向、下定决心。</p>
-      <p><a href="./preface/why"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 前言</a></p>
+      <p>在展示“技术细节”之前，让我们先来思考一些务虚的问题：除了学位和文凭，复旦能带给你什么？</p>
+      <p><a href="./index"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 前言</a></p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p><strong>申请，我要准备些什么？</strong></p>
+      <p><strong>出国申请，我要准备些什么？</strong></p>
       <hr class = "narrow">
       <p>申请是一项复杂且繁琐的工作，希望本手册能帮助你早作准备、少走弯路。</p>
-      <p><a href="./prepare"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 准备</a></p>
+      <p><a href="./index"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 出国准备</a></p>
     </div>
   </div>
 </div>
 <div class="row">
   <div class="column">
     <div class="card">
-      <p><strong>入学前还有哪些事？</strong></p>
+      <p><strong>国内研究生有哪些出路？</strong></p>
       <hr class = "narrow">
-      <p>即使完成申请流程也不是申请季的结束，还需要等待录取并做好行前准备。</p>
-      <p><a href="./afterad"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 录取及之后</a></p>
+      <p>许多大学的许多专业已不逊色于国外高校：跟随兴趣，明智取舍。</p>
+      <p><a href="./index"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 国内升学</a></p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p><strong>以前的同学是怎么做的？</strong></p>
+      <p><strong>本科毕业直接就业如何？</strong></p>
       <hr class = "narrow">
-      <p>希望你能够从前辈们讲述的经历和经验中有所收获，更好地规划自己的未来。</p>
-      <p><a href="./cases"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 往届案例</a></p>
+      <p>积极拥抱行业，实现个人价值也是不错的选择。</p>
+      <p><a href="./index"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 往届案例</a></p>
     </div>
   </div>
 </div>
