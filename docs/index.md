@@ -73,7 +73,7 @@ hr.narrow {margin: 0 10px}
     <div class="card">
       <p><strong>为什么要念大学？</strong></p>
       <hr class = "narrow">
-      <p>在展示“技术细节”之前，让我们先来思考一些务虚的问题：除了学位和文凭，复旦能带给你什么？</p>
+      <p>在开始之前，让我们先来思考一些问题：除了学位和文凭，复旦能带给你什么？</p>
       <p><a href="./index"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 前言</a></p>
     </div>
   </div>
@@ -103,14 +103,6 @@ hr.narrow {margin: 0 10px}
       <hr class = "narrow">
       <p>积极拥抱行业，实现个人价值也是不错的选择。</p>
       <p><a href="./index"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 往届案例</a></p>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="fullcolumn">
-    <div class="card">
-        <p>目前手册正在向已毕业或即将毕业的飞跃同仁 <strong>征集稿件</strong>，希望有意愿贡献自己案例的同学在阅读 <a href="cases/example/">案例模板</a> 后参照其格式通过 <a href="#2">贡献方式</a> 提交稿件。手册编辑组期待各位加入！</p>
-        <div align="center"><a class="md-button" href="./cases/example"><strong>Join Us and Leave Your Story!</strong></a></div>
     </div>
   </div>
 </div>
