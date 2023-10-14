@@ -1,4 +1,4 @@
-site_name: 复旦大学数学科学学院MathBridge
+site_name: 复旦数院MathBridge
 repo_url: https://github.com/WentLyu/MathBridge
 edit_uri: edit/main/docs/
 site_author: 复旦大学数学科学学院
@@ -7,13 +7,15 @@ copyright: 'Copyright &copy; 2023 FDU MATH'
 nav:
   - 首页:
     - index.md
+    - 关于: main/about.md
+    - Q&A: main/qa.md
   - 前言:
     - preface/index.md
-  #   - master or doctor?: preface/master_phd.md
-  #   - 国家/地区选择: preface/location.md
-  #   - 信息收集: preface/info.md
-  #   - 中介 or DIY: preface/diy.md
-  #   - 时间线: preface/timeline.md
+    # - master or doctor?: preface/master_phd.md
+    # - 国家/地区选择: preface/location.md
+    # - 信息收集: preface/info.md
+    # - 中介 or DIY: preface/diy.md
+    # - 时间线: preface/timeline.md
   # - 准备:
   #   - prepare/index.md
   #   - GPA & 标化考试: prepare/exam.md
