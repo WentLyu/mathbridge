@@ -121,3 +121,17 @@ hr.narrow {margin: 0 10px}
 
 如果浏览过程中遇到想要发问的，或是有自己的见解要发表，或是进行简单的勘误，可以在页面底部的评论区发帖，我们会将实用问题总结出来发布。
 
+## 参与方式
+
+本手册使用 [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material/) 编写，想要参与内容编写只需掌握 <code>Markdown</code> 语法，步骤如下：
+
+1. 在该项目的 [GitHub](https://github.com/WentLyu/mathbridge) 页面中进行 fork。
+2. 自行编写 <code>.md</code> 文件，将其放在 <code>docs</code> 文件夹下的合理位置，并维护 <code>mkdocs.yml</code> 中的 <code>nav</code> 模块。
+3. 推送项目到你 fork 得到的库中，并提交 pull request。
+
+排版的技术内容可以参考 [Material for Mkdocs 的文档](https://squidfunk.github.io/mkdocs-material/)[^1]。
+
+倘若您不想使用 <code>GitHub</code>，或者不想编写 <code>.md</code> 文件，您也可以直接编写 <code>Word</code> 文件或 <code>PDF</code> 文件后，将文件发送至[责任编辑](mailto:wtlv23@m.fudan.edu.cn)的邮箱中，我们会在审核您的内容后帮助您排版并发表。
+
+
+[^1]:该建议来源于[清华大学飞跃手册](https://github.com/THU-feiyue/THU-feiyue)
