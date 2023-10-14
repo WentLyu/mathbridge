@@ -8,7 +8,7 @@ nav:
   - 首页:
     - index.md
   - 前言:
-    - 前言: preface/index.md
+    - preface/index.md
   #   - master or doctor?: preface/master_phd.md
   #   - 国家/地区选择: preface/location.md
   #   - 信息收集: preface/info.md
