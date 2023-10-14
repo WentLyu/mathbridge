@@ -1,6 +1,6 @@
 # FDU-MathBridge
 
-该仓库是编写中的复旦大学数学科学学院MathBridge雏形，fork自[清华大学飞跃手册](https://github.com/THU-feiyue/THU-feiyue)。
+该仓库是编写中的复旦大学数学科学学院MathBridge雏形，排版基本参考[清华大学飞跃手册](https://github.com/THU-feiyue/THU-feiyue)，在此致谢。
 
 ## 声明
 
