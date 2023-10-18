@@ -129,9 +129,7 @@ hr.narrow {margin: 0 10px}
 2. 自行编写 <code>.md</code> 文件，将其放在 <code>docs</code> 文件夹下的合理位置，并维护 <code>mkdocs.yml</code> 中的 <code>nav</code> 模块。
 3. 推送项目到你 fork 得到的库中，并提交 pull request。
 
-排版的技术内容可以参考 [Material for Mkdocs 的文档](https://squidfunk.github.io/mkdocs-material/)[^1]。
+排版的技术内容可以参考 [Material for Mkdocs 的文档](https://squidfunk.github.io/mkdocs-material/)
 
 倘若您不想使用 <code>GitHub</code>，或者不想编写 <code>.md</code> 文件，您也可以直接编写 <code>Word</code> 文件或 <code>PDF</code> 文件后，将文件发送至[责任编辑](mailto:wtlv23@m.fudan.edu.cn)的邮箱中，我们会在审核您的内容后帮助您排版并发表。
 
-
-[^1]:该建议来源于[清华大学飞跃手册](https://github.com/THU-feiyue/THU-feiyue)
